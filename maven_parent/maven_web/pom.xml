@@ -17,8 +17,8 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
-        <spring.version>5.0.5.RELEASE</spring.version>
-        <springmvc.version>5.0.5.RELEASE</springmvc.version>
+        <spring.version>5.0.7.RELEASE</spring.version>
+        <springmvc.version>5.0.7.RELEASE</springmvc.version>
         <mybatis.version>3.4.5</mybatis.version>
     </properties>
     <!--锁定jar版本-->
